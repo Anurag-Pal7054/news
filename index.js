@@ -1,8 +1,8 @@
-console.log("Live News with Anu");
+// console.log("Live News with Anu");
 // 0850072d3ae444f293dded0dc160d105
 // initilaize the news api parameters
-let apiKey = '0850072d3ae444f293dded0dc160d105';
-let source = 'bbc-news';
+// let apiKey = '0850072d3ae444f293dded0dc160d105';
+// let source = 'bbc-news';
 // grab the news container 
 let newsAccordion = document.getElementById('newsAccordion');
 // create and ajax get request
